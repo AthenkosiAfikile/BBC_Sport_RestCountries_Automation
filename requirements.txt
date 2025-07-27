@@ -1,0 +1,10 @@
+behave
+selenium
+requests
+jsonschema
+beautifulsoup4
+lxml
+undetected-chromedriver
+allure-behave
+# Add Pydantic if you decide to use API models
+# pydantic
